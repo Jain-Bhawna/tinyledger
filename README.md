@@ -25,7 +25,7 @@ Install Go.
 
 Install dependencies:
 
-  go mod init tinyledger
+  go mod init tinyledger,
   go get github.com/gin-gonic/gin
   
 Run the server:
