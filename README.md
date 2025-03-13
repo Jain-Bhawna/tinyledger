@@ -14,7 +14,7 @@
 
 # Installation
 **Clone the repository:**
-  git clone https://github.com/jain-bhawna/tinyledger/tinyledger.git
+  git clone https://github.com/Jain-Bhawna/tinyledger/tinyledger.git
 
 **Navigate to the folder**
   cd tinyledger 
