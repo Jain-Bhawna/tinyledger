@@ -21,10 +21,15 @@
 
 **How to Run:**
 Install Go.
+
 Install dependencies:
+
   go mod init tinyledger
+  
   go get github.com/gin-gonic/gin
+  
 Run the server:
+
   go run main.go
 
 # Example requests using postman tool
